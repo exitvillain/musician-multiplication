@@ -21,7 +21,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:exitvillain/musician_multiplication.git
+   git clone https://github.com/exitvillain/musician-multiplication.git
 
    python musician_multiplication.py
 
